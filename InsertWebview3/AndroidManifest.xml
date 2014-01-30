@@ -30,6 +30,7 @@
         <activity
             android:name="com.sample.insertwebview.SubActivity"
             android:label="@string/app_name"
+            android:screenOrientation="landscape"
             android:theme="@android:style/Theme.NoTitleBar" >
         </activity>
     </application>
